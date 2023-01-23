@@ -1,0 +1,15 @@
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\bin\Debug\net6.0\CsharpBasics.exe
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\bin\Debug\net6.0\CsharpBasics.deps.json
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\bin\Debug\net6.0\CsharpBasics.runtimeconfig.json
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\bin\Debug\net6.0\CsharpBasics.dll
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\bin\Debug\net6.0\CsharpBasics.pdb
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\obj\Debug\net6.0\CsharpBasics.csproj.AssemblyReference.cache
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\obj\Debug\net6.0\CsharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\obj\Debug\net6.0\CsharpBasics.AssemblyInfoInputs.cache
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\obj\Debug\net6.0\CsharpBasics.AssemblyInfo.cs
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\obj\Debug\net6.0\CsharpBasics.csproj.CoreCompileInputs.cache
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\obj\Debug\net6.0\CsharpBasics.dll
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\obj\Debug\net6.0\refint\CsharpBasics.dll
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\obj\Debug\net6.0\CsharpBasics.pdb
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\obj\Debug\net6.0\CsharpBasics.genruntimeconfig.cache
+C:\source\CSsharpPackages\CsharpFileClassSystemIO\CsharpBasics\CsharpBasics\obj\Debug\net6.0\ref\CsharpBasics.dll
